@@ -1,7 +1,7 @@
 # BTD6-AFK-Farm
 This is an AFK XP and Monkey Money Farm
 BTD6 is an AFK Farm that automatically farms for XP, Moneky Money in Bloons Tower Defense 6
-The script works by automatically placing towers, upgrading those towers, acknowledging level up pop-ups and repeating. This is all done by a single hotkey. 
+The script works by automatically placing towers, upgrading those towers, acknowledging level-up pop-ups and repeating. This is all done by a single hotkey. 
 # How to use it
 You need to download AutoHotKey (AHK) from their [official site](https://www.autohotkey.com/). 
 Once downloaded and installed simply run the .ahk file by double clicking it
