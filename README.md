@@ -9,6 +9,7 @@ and pressing F3 to start, next follow the on-screen instructions. (F7 to stop th
 It is required that you have:
 1. Unlocked the map "Dark Castle" on easy with Deflation mode (under "Easy")
 2. Unlocked and equipped the hero Obyn
+The following upgrade paths unlocked:
 3. Alchemist 3/0/0
 4. Ninja Moneky 3/0/0
 5. Super Monkey 2/0/3
